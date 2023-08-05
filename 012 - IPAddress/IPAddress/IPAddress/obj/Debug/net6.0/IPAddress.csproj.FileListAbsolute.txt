@@ -1,0 +1,15 @@
+F:\Work_Space\C#Package\IPAddress\IPAddress\bin\Debug\net6.0\IPAddress.exe
+F:\Work_Space\C#Package\IPAddress\IPAddress\bin\Debug\net6.0\IPAddress.deps.json
+F:\Work_Space\C#Package\IPAddress\IPAddress\bin\Debug\net6.0\IPAddress.runtimeconfig.json
+F:\Work_Space\C#Package\IPAddress\IPAddress\bin\Debug\net6.0\IPAddress.dll
+F:\Work_Space\C#Package\IPAddress\IPAddress\bin\Debug\net6.0\IPAddress.pdb
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\IPAddress.csproj.AssemblyReference.cache
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\IPAddress.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\IPAddress.AssemblyInfoInputs.cache
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\IPAddress.AssemblyInfo.cs
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\IPAddress.csproj.CoreCompileInputs.cache
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\IPAddress.dll
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\refint\IPAddress.dll
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\IPAddress.pdb
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\IPAddress.genruntimeconfig.cache
+F:\Work_Space\C#Package\IPAddress\IPAddress\obj\Debug\net6.0\ref\IPAddress.dll

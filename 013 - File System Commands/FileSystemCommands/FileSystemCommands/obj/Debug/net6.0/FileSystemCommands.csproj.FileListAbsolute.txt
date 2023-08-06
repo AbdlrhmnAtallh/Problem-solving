@@ -1,0 +1,15 @@
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\bin\Debug\net6.0\FileSystemCommands.exe
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\bin\Debug\net6.0\FileSystemCommands.deps.json
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\bin\Debug\net6.0\FileSystemCommands.runtimeconfig.json
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\bin\Debug\net6.0\FileSystemCommands.dll
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\bin\Debug\net6.0\FileSystemCommands.pdb
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\FileSystemCommands.csproj.AssemblyReference.cache
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\FileSystemCommands.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\FileSystemCommands.AssemblyInfoInputs.cache
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\FileSystemCommands.AssemblyInfo.cs
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\FileSystemCommands.csproj.CoreCompileInputs.cache
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\FileSystemCommands.dll
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\refint\FileSystemCommands.dll
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\FileSystemCommands.pdb
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\FileSystemCommands.genruntimeconfig.cache
+F:\Work_Space\C#Package\FileSystemCommands\FileSystemCommands\obj\Debug\net6.0\ref\FileSystemCommands.dll

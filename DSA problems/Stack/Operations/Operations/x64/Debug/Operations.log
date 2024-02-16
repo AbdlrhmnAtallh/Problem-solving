@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Stack.cpp
+  Generating Code...
+F:\Work_Space\Problem Solving\Problem-solving\DSA problems\Stack\Operations\Operations\Stack.cpp(48): warning C4715: 'Stack::peek': not all control paths return a value
+F:\Work_Space\Problem Solving\Problem-solving\DSA problems\Stack\Operations\Operations\Stack.cpp(42): warning C4715: 'Stack::pop': not all control paths return a value
+  Operations.vcxproj -> F:\Work_Space\Problem Solving\Problem-solving\DSA problems\Stack\Operations\x64\Debug\Operations.exe

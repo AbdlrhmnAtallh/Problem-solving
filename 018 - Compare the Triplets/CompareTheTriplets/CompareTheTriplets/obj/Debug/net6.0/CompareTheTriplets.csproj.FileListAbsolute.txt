@@ -1,0 +1,15 @@
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.exe
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.deps.json
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.runtimeconfig.json
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.dll
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\bin\Debug\net6.0\CompareTheTriplets.pdb
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.csproj.AssemblyReference.cache
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.AssemblyInfoInputs.cache
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.AssemblyInfo.cs
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.csproj.CoreCompileInputs.cache
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.dll
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\refint\CompareTheTriplets.dll
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.pdb
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\CompareTheTriplets.genruntimeconfig.cache
+F:\Work_Space\Problem Solving\Problem-solving\018 - Compare the Triplets\CompareTheTriplets\CompareTheTriplets\obj\Debug\net6.0\ref\CompareTheTriplets.dll
